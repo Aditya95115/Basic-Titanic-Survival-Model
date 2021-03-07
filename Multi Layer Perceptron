@@ -1,4 +1,4 @@
-%cd C:\Users\91901\Desktop\Aditya\Learning\LinkedIN\Applied Machin Learning Algorithms
+
 import joblib
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
