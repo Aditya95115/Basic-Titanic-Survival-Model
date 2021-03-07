@@ -1,4 +1,4 @@
-%cd C:\Users\91901\Desktop\Aditya\Learning\LinkedIN\Applied Machin Learning Algorithms
+
 from sklearn.svm import SVC
 import joblib
 import pandas as pd
